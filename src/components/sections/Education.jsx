@@ -254,7 +254,7 @@ export const Education = () => {
               ))}
             </div>
           </div>
-
+{/*
           <div className="bg-gradient-to-r from-white/5 via-white/10 to-white/5 backdrop-blur-xl border border-white/10 rounded-3xl p-8">
             <div className="text-center mb-8">
               <h3 className="text-3xl font-bold text-white mb-4 bg-gradient-to-r from-yellow-400 to-orange-400 bg-clip-text text-transparent">
@@ -295,6 +295,7 @@ export const Education = () => {
                       </Badge>
                     ))}
                   </div>
+                  
 
                   <div className="absolute top-4 right-4 w-6 h-6 bg-green-400 rounded-full flex items-center justify-center">
                     <CheckCircle className="w-4 h-4 text-black" />
@@ -303,6 +304,7 @@ export const Education = () => {
               ))}
             </div>
           </div>
+          */}
         </div>
       </section>
     </>
