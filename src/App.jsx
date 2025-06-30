@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import './App.css';
 import { LoadingScreen } from './components/LoadingScreen';
-import { Navbar } from './components/navbar';
+import { Navbar } from './components/Navbar';
 import { Home } from './components/sections/Home';
 import { About } from './components/sections/About';
 import { Education } from './components/sections/Education';
