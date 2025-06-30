@@ -1,4 +1,4 @@
-import { Navbar } from "../navbar"
+import { Navbar } from "../Navbar"
 import { Button } from "@/components/ui/button"
 import { Badge } from "@/components/ui/badge"
 import {
