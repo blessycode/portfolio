@@ -1,3 +1,10 @@
+# My Portfolio Website
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/19311a03-420f-41e5-851e-b341f72b1104/deploy-status?branch=main)](https://app.netlify.com/projects/blessedzhou/deploys)
+
+Welcome to my personal portfolio website showcasing my projects and skills...
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
